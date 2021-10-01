@@ -279,3 +279,18 @@ footer a:not(.nav-link) {
 .small-text {
   font-size: 7px;
 }
+
+.services-row {
+  justify-content: center;
+  row-gap        : 20px;
+}
+
+.phone {
+  text-decoration: none;
+  color          : #364baf;
+}
+
+.email {
+  text-decoration: none;
+  color          : #364baf;
+}
